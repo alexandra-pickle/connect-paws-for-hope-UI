@@ -1,0 +1,25 @@
+#userRegistrationForm {
+    width: 35%;
+    background-color: #d7e0e7;
+    padding: 20px;
+    margin-right: 70px;
+}
+
+#info {
+    width: 45%;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.iconParagraph {
+    margin-left: 20px;
+    padding: 10px;
+    display: flex; 
+    align-items: center; 
+    align-content: center;
+}
+
+.iconParagraph i {
+    padding-right: 15px;
+    color: #b36b39;
+}
